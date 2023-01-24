@@ -1,4 +1,4 @@
-# flutter_application_2
+# VIDEO CALLING APPLICATION
 
 A new Flutter project.
 
